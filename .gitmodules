@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cppRouting"]
+	path = cppRouting
+	url = https://github.com/vlarmet/cpprouting
+	shallow = true
+	registered = true
